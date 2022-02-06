@@ -1,8 +1,10 @@
-# ari-on-docker
+# airdock
 
 [![Travis-CI Build Status](https://travis-ci.org/seankross/ari-on-docker.svg?branch=master)](https://travis-ci.org/seankross/ari-on-docker)
 
-ari-on-docker is a Docker image that allows you to quickly start using
+## Automated Instructor in R on Docket
+
+airdock (ari-on-docker) is a Docker image that allows you to quickly start using
 [Ari](https://github.com/seankross/ari) on your own computer with minimum local 
 configuration. Ari uses many features bundled with FFmpeg, and local 
 configuration of these features can be tedious. The goal of ari-on-docker is

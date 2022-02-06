@@ -2,7 +2,7 @@
 
 [![Travis-CI Build Status](https://travis-ci.org/seankross/ari-on-docker.svg?branch=master)](https://travis-ci.org/seankross/ari-on-docker)
 
-## Automated Instructor in R on Docket
+## Automated Instructor in R on Docker
 
 airdock (ari-on-docker) is a Docker image that allows you to quickly start using
 [Ari](https://github.com/seankross/ari) on your own computer with minimum local 
